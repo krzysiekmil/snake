@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1421924371 source:/home/krzysztof/Pulpit/PRM/snake vol2/dane.c
+	"silnik_gry.h"
+	"dane.h"
+	"menu.h"
+	"rysuj.h"
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+
+1421889070 /home/krzysztof/Pulpit/PRM/snake vol2/silnik_gry.h
+
+1421924310 /home/krzysztof/Pulpit/PRM/snake vol2/dane.h
+
+1421887840 /home/krzysztof/Pulpit/PRM/snake vol2/menu.h
+
+1421889138 /home/krzysztof/Pulpit/PRM/snake vol2/rysuj.h
+
+1421890684 source:/home/krzysztof/Pulpit/PRM/snake vol2/main.c
+	"silnik_gry.h"
+	"dane.h"
+	"menu.h"
+	"rysuj.h"
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+
+1421924637 source:/home/krzysztof/Pulpit/PRM/snake vol2/menu.c
+	"silnik_gry.h"
+	"dane.h"
+	"menu.h"
+	"rysuj.h"
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+
+1421924381 source:/home/krzysztof/Pulpit/PRM/snake vol2/rysuj.c
+	"silnik_gry.h"
+	"dane.h"
+	"menu.h"
+	"rysuj.h"
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+
+1421889204 source:/home/krzysztof/Pulpit/PRM/snake vol2/silnik_gry.c
+	"silnik_gry.h"
+	"dane.h"
+	"menu.h"
+	"rysuj.h"
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+
+1421890684 source:/run/user/1000/gvfs/smb-share:server=seagate-4135c6.local,share=krzysiek/Studia/1/PRM/snake vol2/main.c
+	"silnik_gry.h"
+	"dane.h"
+	"menu.h"
+	"rysuj.h"
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+
+1421889070 /run/user/1000/gvfs/smb-share:server=seagate-4135c6.local,share=krzysiek/Studia/1/PRM/snake vol2/silnik_gry.h
+
+1421924310 /run/user/1000/gvfs/smb-share:server=seagate-4135c6.local,share=krzysiek/Studia/1/PRM/snake vol2/dane.h
+
+1421887840 /run/user/1000/gvfs/smb-share:server=seagate-4135c6.local,share=krzysiek/Studia/1/PRM/snake vol2/menu.h
+
+1421889138 /run/user/1000/gvfs/smb-share:server=seagate-4135c6.local,share=krzysiek/Studia/1/PRM/snake vol2/rysuj.h
+
